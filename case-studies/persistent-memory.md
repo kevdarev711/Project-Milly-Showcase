@@ -204,6 +204,11 @@ This project provides evidence of hands-on experience with:
 - AI-assisted software development.
 - Documentation and iterative validation.
 
+## Supporting Evidence
+
+- [Persistent Memory Verification](../evidence/persistent-memory-verification.md) — Historical semantic retrieval tests, selective memory regression results, and documented memory approval controls.
+- [System Health Verification](../evidence/system-health-verification.md) — Operational health and database integrity results from 11/11/2026.
+
 Conclusion
 
 Milly's persistent memory system demonstrates my approach to developing practical AI systems: identify a real limitation, design a modular solution, integrate the necessary technologies, test the results, and improve the system based on observed behavior.
