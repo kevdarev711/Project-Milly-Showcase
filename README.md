@@ -60,6 +60,14 @@ Integrated AI-assisted source development with a controlled Android build workfl
 
 Successfully built and installed Android applications, including the functional MillyTasks application.
 
+## Technical Case Studies
+
+- [Persistent AI Memory System](case-studies/persistent-memory.md) — SQLite memory architecture, semantic retrieval, and human-reviewed memory updates.
+
+- [Multi-Agent Collaboration](case-studies/multi-agent-collaboration.md) — SSH-based delegation between two independently running AI agents.
+
+- [AI-Assisted Android Development](case-studies/android-development.md) — Controlled Android builds and physical-device testing of MillyTasks.
+
 ## Operational Verification
 
 A system health check performed on **11/11/2026** reported:
