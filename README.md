@@ -68,6 +68,10 @@ Successfully built and installed Android applications, including the functional 
 
 - [AI-Assisted Android Development](case-studies/android-development.md) — Controlled Android builds and physical-device testing of MillyTasks.
 
+## Technical Evidence
+
+- [System Health & Operational Verification](evidence/system-health-verification.md) — Verified operational health, database integrity, backup recovery, and system monitoring results from 11/11/2026.
+
 ## Operational Verification
 
 A system health check performed on **11/11/2026** reported:
