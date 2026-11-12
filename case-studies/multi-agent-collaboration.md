@@ -280,6 +280,10 @@ This project demonstrates practical experience with:
 
 ---
 
+## Supporting Evidence
+
+- [Multi-Agent Delegation Verification](../evidence/multi-agent-verification.md) — Documented SSH connectivity, agent-to-agent communication, response retrieval, and secondary-agent tool execution.
+
 ## Conclusion
 
 The Milly and Mini Milly delegation project demonstrates my approach to integrating AI systems across separate computing environments.
