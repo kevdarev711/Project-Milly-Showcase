@@ -68,7 +68,7 @@ Successfully built and installed Android applications, including the functional 
 
 - [AI-Assisted Android Development](case-studies/android-development.md) — Controlled Android builds and physical-device testing of MillyTasks.
 
-- [Household Automation & Notifications](case-studies/household-automation.md)
+- [Household Automation & Notifications](case-studies/Milly_Household_Automation_Case_Study_GitHub_Ready.md)
 
 ## Technical Evidence
 
