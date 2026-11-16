@@ -70,9 +70,13 @@ Successfully built and installed Android applications, including the functional 
 
 - [Household Automation & Notifications](case-studies/Milly_Household_Automation_Case_Study_GitHub_Ready.md)
 
+- [Potato Command Center — Linux Operations and Monitoring](case-studies/potato-command-center.md)
+
 ## Technical Evidence
 
 - [System Health & Operational Verification](evidence/system-health-verification.md) — Verified operational health, database integrity, backup recovery, and system monitoring results from 11/11/2026.
+
+- [Potato Command Center — Verification Evidence](evidence/potato-command-center-verification.md)
 
 ## Operational Verification
 
