@@ -72,6 +72,8 @@ Successfully built and installed Android applications, including the functional 
 
 - [Potato Command Center — Linux Operations and Monitoring](case-studies/potato-command-center.md)
 
+- [SPUD Retention Scanner — Python Source & Tests](code-examples/spud-retention-scanner/README.md)
+
 ## Technical Evidence
 
 - [System Health & Operational Verification](evidence/system-health-verification.md) — Verified operational health, database integrity, backup recovery, and system monitoring results from 11/11/2026.
