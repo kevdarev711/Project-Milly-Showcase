@@ -112,14 +112,14 @@ I developed the system through iterative planning, AI-assisted programming, trou
 
 My responsibilities included:
 
-## 1. Defining the memory system's objectives and requirements.
-## 2. Making architecture and integration decisions.
-## 3. Coordinating AI-assisted implementation.
-## 4. Configuring Linux services and development environments.
-## 5. Investigating retrieval and memory-management problems.
-## 6. Reviewing diagnostic output and test results.
-## 7. Testing functionality through real AI conversations.
-## 8. Maintaining technical documentation and development roadmaps.
+1. Defining the memory system's objectives and requirements.
+2. Making architecture and integration decisions.
+3. Coordinating AI-assisted implementation.
+4. Configuring Linux services and development environments.
+5. Investigating retrieval and memory-management problems.
+6. Reviewing diagnostic output and test results.
+7. Testing functionality through real AI conversations.
+8. Maintaining technical documentation and development roadmaps.
 
 Rather than attempting to implement every capability simultaneously, I expanded the architecture in stages and evaluated the results.
 
