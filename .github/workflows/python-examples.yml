@@ -1,0 +1,29 @@
+name: Python examples tests
+
+on:
+  push:
+    paths:
+      - "code-examples/**"
+      - ".github/workflows/python-examples.yml"
+  pull_request:
+    paths:
+      - "code-examples/**"
+      - ".github/workflows/python-examples.yml"
+  workflow_dispatch:
+
+jobs:
+  unittest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Test SPUD Retention Scanner
+        working-directory: code-examples/spud-retention-scanner
+        run: python -m unittest -v test_retention_scanner.py
+      - name: Test Household PA Scheduler
+        working-directory: code-examples/milly-pa-scheduler
+        run: python -m unittest -v test_scheduler_demo.py

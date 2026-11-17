@@ -16,7 +16,7 @@ A small, **standalone demonstration adapted from an operational script** in Kevi
 Requires Python 3.9+ and no third-party dependencies.
 
 ```bash
-python3 -m unittest discover -s tests -v
+python3 -m unittest -v test_retention_scanner.py
 ```
 
 ## Run the CLI against your own disposable example directories
