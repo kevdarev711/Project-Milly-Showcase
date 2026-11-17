@@ -1,0 +1,16 @@
+{
+  "timezone": "UTC",
+  "days": [1, 2, 3, 4, 5],
+  "announcements": [
+    {
+      "id": "demo_notice_a",
+      "time": "10:15",
+      "message": "Example reminder A."
+    },
+    {
+      "id": "demo_notice_b",
+      "time": "10:45",
+      "message": "Example reminder B."
+    }
+  ]
+}
